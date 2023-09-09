@@ -1,0 +1,90 @@
+.navbar{
+    height: 13px;
+    padding: 25px;
+    color: rgb(235, 174, 117);
+    background-color: rgb(86, 13, 58);
+    border-radius: 10px;
+}
+#fname{
+    width: 300px;
+    height: 30px;
+}
+#lname{
+    width: 250px;
+    height: 30px;
+    
+}
+#date{
+    width: 120px;
+    text-align: center;
+    height: 25px;
+    
+}
+h1{
+    color: rgb(146, 18, 8);
+    display: inline;
+}
+a{
+    margin-right: 40px;
+    font-size: large;
+}
+#box{
+    text-align: center;
+}
+body {
+    background-image: url("abstract-colorful-geometric-shape-background-modern-color-background-for-your-website-vector.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    image opacity: 1;
+}
+.container {
+    text-align: center;
+    font-size: x-large;
+    border-radius: 30px;
+    border-color: blueviolet;
+    height: 250px;
+    width: 500px;
+    border: 2px solid rgb(86, 13, 58);
+    background-color: #79333c;
+    padding: 20px;
+    margin-left: 400px;
+  }
+button{
+    height: 20px;
+    width: 70px;
+    margin-left: 50px;
+  }
+#submitz{
+    height: 15px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    color:black; 
+    
+}
+#services{
+    text-decoration: none;
+    color:rgb(235, 174, 117);
+}
+.div1{
+    display: inline;
+    border-radius: 50%;
+}
+marquee{
+    color: rgb(30, 213, 13);
+    font-size: larger;
+}
+.footer{
+    color: blueviolet;
+    height: 40px;
+    display: flex;
+    justify-content: space-evenly;
+    font-size: larger;
+}
+#foot1{
+    display: inline; 
+}
+.foot2{
+    text-align: center;
+    color: darkgray;
+}

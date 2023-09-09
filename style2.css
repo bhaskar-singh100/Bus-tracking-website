@@ -1,0 +1,78 @@
+.option{
+  background-color: aquamarine;
+  display: inline;
+  font-size:x-large;
+  display: flex;
+  justify-content: flex-start;
+}
+#box1{
+    background-color:rgb(31, 190, 87);
+    width: 100px;
+    height: 100px;
+    border: 1px solid blanchedalmond;
+    border-radius: 10%;
+    padding: 70px 30px 30px 45px;
+    margin: 30px;
+    }
+#box2{
+    background-color:rgb(31, 190, 87);
+    width: 100px;
+    height: 100px;
+    border: 1px solid blanchedalmond;
+    border-radius: 10%;
+    padding: 70px 30px 30px 45px;
+    margin: 30px;
+    }
+#box3{
+  background-color:rgb(31, 190, 87);
+  width: 100px;
+  height: 100px;
+  border: 1px solid blanchedalmond;
+  border-radius: 10%;
+  padding: 70px 30px 30px 45px;
+  margin: 30px;
+  }
+#box4{
+  background-color:rgb(31, 190, 87);
+  width: 100px;
+  height: 100px;
+  border: 1px solid blanchedalmond;
+  border-radius: 10%;
+  padding: 70px 30px 30px 70px;
+  margin: 30px;
+  }
+#box5{
+  background-color:rgb(31, 190, 87);
+  width: 100px;
+  height: 100px;
+  border: 1px solid blanchedalmond;
+  border-radius: 10%;
+  padding: 70px 30px 30px 45px;
+  margin: 30px;
+  }
+body {
+    background-image: url("abstract-colorful-geometric-shape-background-modern-color-background-for-your-website-vector.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    img opacity: 0.5;
+}
+a{
+  text-decoration: none;
+  margin-right: 40px;
+}
+.navbar{
+  height: 13px;
+  padding: 25px;
+  color: rgb(235, 174, 117);
+  background-color: rgb(86, 13, 58);
+  border-radius: 10px;
+  position: sticky;
+  left: 200px;
+}
+h1{
+  color: rgb(146, 18, 8);
+  display: inline;
+}
+.div1{
+  display: inline;
+}
